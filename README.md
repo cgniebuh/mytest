@@ -1,2 +1,2 @@
 # mytest
-Programming for Political Data Science github repository practice
+Programming for Political Data Science Github Repository Homework
